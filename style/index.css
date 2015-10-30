@@ -1,0 +1,13 @@
+#container{
+    height: 458px;
+    margin:0 auto;
+    border: solid 2px #ccc;
+    overflow: hidden;
+    position: relative;
+}
+#container img{
+    position: absolute;
+    border: solid 1px #cccccc;
+    left: 0;
+    display: block;
+}
